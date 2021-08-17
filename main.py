@@ -39,3 +39,14 @@ print(first_int + second_int)
 
 ####################################
 #Write your code below this line 👇
+
+
+
+
+len()
+
+
+
+
+
+

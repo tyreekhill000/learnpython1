@@ -1,4 +1,5 @@
 #Write your code below this line 👇
+# author nitish
 def prime_checker(number):
   """This function will tell you if a number is prime or not"""
   is_prime = True
